@@ -33,27 +33,29 @@ Mais referências:
 
 ## MQTT Brokers on cloud
 
-* https://www.hivemq.com/public-mqtt-broker/
+* https://mqtt.eclipseprojects.io
+* http://test.mosquitto.org
+* https://www.hivemq.com/public-mqtt-broker
 * https://www.emqx.io/mqtt/public-mqtt5-broker
-* https://flespi.com/
-* https://ably.com/
+* https://flespi.com
+* https://ably.com
 
 ## MQTT Brokers que podem ser instalados em seu ambiente
 
-* https://mosquitto.org/
+* https://mosquitto.org
 * https://github.com/moscajs/mosca
-* https://mqtt.cool/download/server-2-0-0/
+* https://mqtt.cool/download/server-2-0-0
 
 ## Vale apena dar uma conferida
 
-* https://mqtt.org/software/
-* http://www.mqtt-dashboard.com/
+* https://mqtt.org/software
+* http://www.mqtt-dashboard.com
 
 ## IDEs
 
-* https://mqttx.app/
-* https://mqttfx.jensd.de/
-* http://mqtt-explorer.com/
+* https://mqttx.app
+* https://mqttfx.jensd.de
+* http://mqtt-explorer.com
 * https://chrome.google.com/webstore/detail/mqttlens/hemojaaeigabkbcookmlgmdigohjobjm
 
 ## Referências
